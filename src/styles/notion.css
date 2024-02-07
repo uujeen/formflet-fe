@@ -1,0 +1,11 @@
+.notion-frame * {
+  font-family: var(--notion-font) !important;
+}
+
+.notion-asset-wrapper{
+  margin-left: -28px;
+}
+
+.notion-page-icon-hero{
+  left: 50px;
+}
