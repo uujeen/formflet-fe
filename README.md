@@ -52,8 +52,6 @@ npm install
 
 > `develop` puppeteer를 사용해서 백엔드에서 크롤링하여 DB에 저장하고, 불러오는 방식 사용.
 
-라이브러리의 제한적 사용성으로 인해 추후 블럭단위로 편집기능 추가를 위해 puppeteer 채택, Front에서는 puppeteer 사용시 CORS 에러로 인해 proxy 서버를 타고 스크래핑 해야하기 때문에 Back에서 스크래핑 진행
-
 ## .env
 
 ### Notion
