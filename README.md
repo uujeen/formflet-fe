@@ -51,9 +51,3 @@ npm install
 > `main` react-notion-x 라이브러리를 사용하여 노션 페이지에 대한 데이터를 불러와 DB에 저장하고 불러오는 방식 사용
 
 > `develop` puppeteer를 사용해서 백엔드에서 크롤링하여 DB에 저장하고, 불러오는 방식 사용.
-
-## .env
-
-### Notion
-
-프로덕트 캠프 2기 -> Formflet -> 진행사항 및 인수인계 -> FE
